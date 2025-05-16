@@ -36,8 +36,8 @@ I'm **Milan Kumar Santra**, a passionate first-year **B.Sc. Computer Science (Ho
 
 ### 📫 Get in Touch
 - 💬 Feel free to connect with me to collaborate or share ideas!
-- 📧 **Email**: *[Add your email here]*
-- 🌐 **Portfolio**: *[Add your portfolio link if available]*
+- 📧 **Email**: milansantr2006@gmail.com
+- 🌐 **Portfolio**: 
 - 🔗 **GitHub**: [github.com/MILAN-SANTRA](https://github.com/MILAN-SANTRA)
 
 ---
